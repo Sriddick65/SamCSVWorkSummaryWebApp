@@ -15,7 +15,7 @@ from PIL import Image
 
 
 """
-# Draft of June 8, 2024 Kids Fishing Data Science Project and Activity
+# Draft of Sam CSV and Work Summary Web App
 # Teams on the Fishing Trip
 5 teams with 2 Kids each team
 

@@ -36,7 +36,7 @@ st.subheader('_Fishing with Friends and Family_ is :blue[cool] :sunglasses:')
 
 
 """
-# The Beginning of the Trip
+# The Beginning Sam's CSV and Wok Summary App
 """
 
 video_file = open('BernardBeginningFishingTrip.mp4', 'rb')
@@ -119,7 +119,7 @@ www.franklydatascience.com
 
 
 """
-# What We Caught
+# Samuel Riddick
 """
 
 

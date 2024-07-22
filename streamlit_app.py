@@ -23,13 +23,13 @@ from PIL import Image
 # Learning Python & SQL are great skills
 """
 
-st.title('Test')
-st.subheader('What a pleasure it was on Saturday June 8, 2024 Fishing and Fellowshipping', divider='rainbow')
-st.subheader('_Fishing with Friends and Family_ is :blue[cool] :sunglasses:')
+st.title('Beginning of something great')
+st.subheader('We are learning Python and SQL with Chris Franklin', divider='rainbow')
+st.subheader('_Sam is taking copious notes_ is :blue[cool] :sunglasses:')
 
-#st.balloons()
+# st.balloons()
 
-#st.snow()
+# st.snow()
 
 
 

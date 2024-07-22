@@ -16,13 +16,11 @@ from PIL import Image
 
 """
 # Draft of Sam CSV and Work Summary Web App
-# Teams on the Fishing Trip
-5 teams with 2 Kids each team
-
+# This is Sam's webapp created in Python
 """
 
 """
-# Hi Everyone
+# Learning Python & SQL are great skills
 """
 
 st.title('Test')

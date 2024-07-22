@@ -121,7 +121,7 @@ www.franklydatascience.com
 """
 
 
-image = Image.open('images/SamOldResume.png')
+image = Image.open('images/Resume Screenshot.jpg')
 
 st.image(image, caption='Sam Resume')
 

@@ -27,9 +27,9 @@ st.title('Beginning of something great')
 st.subheader('We are learning Python and SQL with Chris Franklin', divider='rainbow')
 st.subheader('_Sam is taking copious notes_ is :blue[cool] :sunglasses:')
 
-# st.balloons()
+st.balloons()
 
-# st.snow()
+st.snow()
 
 
 

@@ -125,6 +125,7 @@ image = Image.open('images/Resume Screenshot.jpg')
 
 st.image(image, caption='Sam Resume')
 
+#change image to different picture and change caption (For image: 2-5)
 
 image2 = Image.open('images/AllenStripedBass12lbs.June8.2024jpg.jpg')
 st.image(image2, caption='Legacy Parent with 13Lb Striped Bass')

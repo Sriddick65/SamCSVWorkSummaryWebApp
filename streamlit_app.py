@@ -127,8 +127,7 @@ st.image(image, caption='Sam Resume')
 
 #Add video of Sam & Taj hopping
 
-video1 = video.open('C:\Users\Samue\Videos\Sam & Taj Hop - Pitch.mp4')
-st.video(video1, caption='TI and Eta Pi setting it owt @ KO fish fry')
+
 
 #change image to different picture and change caption (For image: 2-5)
 
